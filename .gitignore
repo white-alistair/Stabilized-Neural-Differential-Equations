@@ -1,0 +1,13 @@
+.JuliaFormatter.toml
+
+/archive
+/data
+/experiments
+/learning_curves
+/scripts
+/serialization
+
+*.csv
+
+.vscode
+.ipynb_checkpoints

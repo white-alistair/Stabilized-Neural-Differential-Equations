@@ -1,0 +1,5 @@
+[[schedules]]
+schedule = "ExpDecay"
+epochs = 1000
+max_lr = 1e-3
+min_lr = 1e-5
