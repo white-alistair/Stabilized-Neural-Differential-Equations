@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="figures/figure_1.png"> </p>
 
-This repository contains the code and experiments for the NeurIPS 2023 paper *Stabilized Neural Differential Equations for Learning Dynamics with Explicit Constraints* by Alistair White, Niki Kilbertus, Maximilian Gelbrecht, and Niklas Boers.
+This repository contains the code and experiments for the NeurIPS 2023 paper [Stabilized Neural Differential Equations for Learning Dynamics with Explicit Constraints](https://arxiv.org/abs/2306.09739) by Alistair White, Niki Kilbertus, Maximilian Gelbrecht, and Niklas Boers.
 
 ## Installation
 With Julia installed, instantiate the environment by opening the Julia [Pkg](https://pkgdocs.julialang.org/v1/) REPL and doing:
