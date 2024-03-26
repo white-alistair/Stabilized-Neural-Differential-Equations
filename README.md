@@ -34,6 +34,6 @@ If you find our work useful, please cite it!
   title     = {Stabilized Neural Differential Equations for Learning Dynamics with Explicit Constraints},
   author    = {White, Alistair and Kilbertus, Niki and Gelbrecht, Maximilian and Boers, Niklas},
   booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2023 (in press)},
+  year      = {2023},
 }
 ```
